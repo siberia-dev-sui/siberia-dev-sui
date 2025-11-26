@@ -1,36 +1,41 @@
-### 🐺 The Architect of Swarms
+# 🐺 The Architect of Swarms | Hugo "Siberia" Mendoza
 
-Senior Software Architect specializing in **High-Performance Liquidity Infrastructure** & **DeFi Protocols**.
-I don't just write code; I orchestrate a multi-agent AI system called **The Swarm Court Protocol™**.
+Senior Software Architect specializing in **High-Performance Liquidity Infrastructure** & **AI-Driven Engineering**.
+Creator of **The Swarm Court Protocol™**, an AI-governed development pipeline powered by the **Elena Engine**.
 
 ---
 
-### 🏛️ How I Work (The Swarm Court Protocol™)
-Every line of code I ship goes through a rigourous AI-Governed pipeline:
-1.  **Governor Module:** Context injection via dynamic `.cursorrules` (Move/Rust/Solidity).
-2.  **Spec-First:** Logic validation via Mermaid diagrams before coding.
-3.  **The Swarm Court Review:**
-    *   🛡️ **Security Judge:** Zero-tolerance for reentrancy/overflows.
-    *   ⛽ **Gas Judge:** O(n) optimization for Sui/Solana efficiency.
-    *   💥 **Chaos Judge:** Adversarial fuzzing to break the contract.
+### 🧠 The Evolution: Swarm Court V4.0 (Self-Aware Architecture)
+My viral protocol (350k+ views on LinkedIn) has evolved. I don't just orchestrate agents; I engineer **Self-Aware Systems**.
 
-**Result:** Production-grade code delivered in 30% of the usual time.
+Every line of code goes through this 4-Stage Pipeline:
+
+#### 1. 🔮 Predictive Impact Analysis (The Elena Engine)
+Before coding, the system consults its Vector Memory (RAG) to predict:
+*   "If we change `User.model`, what breaks in the Payment API?"
+*   **Result:** Zero unexpected breaking changes. 60% less refactoring.
+
+#### 2. 🏛️ The Constitution (Dynamic Context)
+Context isn't just pasted; it's enforced via cascading `.cursorrules` and architectural constraints derived from the project's history.
+
+#### 3. ✅ AI-TDD (Test-Driven Intelligence)
+Agents write the breaking tests *first*. Implementation only begins once the "Failure Scenario" is defined.
+
+#### 4. ⚖️ The Swarm Court (Final Judgment)
+Three specialized agents must vote `PASS` (5/5) to merge:
+*   🛡️ **Security Judge:** Audits for Reentrancy, Access Control & OWASP vulnerabilities.
+*   ⛽ **Gas/Performance Judge:** Optimizes O(n) complexity and Cloud costs.
+*   💥 **Chaos Judge:** Performs adversarial attacks on the logic.
 
 ---
 
 ### 🛠️ Tech Stack & Arsenal
-*   **Chains:** 💧 Sui (Move) | ⚡ Solana (Rust) | 🔷 Ethereum (Solidity)
-*   **Core:** Rust, TypeScript, Python (Analysis/AI), Node.js
-*   **Infrastructure:** Docker, AWS, Terraform
-*   **AI Ops:** Cursor, PyTorch, LangChain (Custom Agents)
+*   **Core:** Rust, Solidity, Move (Sui), Python (FastAPI).
+*   **AI Orchestration:** LangChain, ChromaDB (RAG), Cursor/Windsurf.
+*   **Infrastructure:** Docker, AWS, Terraform.
 
 ---
 
-### 🚀 Active Bounties & Focus
-Currently hunting bugs and building liquidity solutions on:
-- **Sui Ecosystem:** (Navi, Scallop, Bucket)
-- **Solana:** (Superteam Earn)
+> *"The era of the 'Junior Coder' is over. Welcome to the era of the AI Architect."*
 
-> *"The future belongs to those who can orchestrate intelligence."*
-
-[🌐 Connect on LinkedIn](TU_LINK_DE_LINKEDIN_AQUI) | [📧 Email Me](mailto:aticomedia777@gmail.com)
+[🌐 Connect on LinkedIn (Viral Post)](https://www.linkedin.com/feed/update/urn:li:activity:7393455985857671168/) | [📧 Email Me](mailto:aticomedia777@gmail.com)
